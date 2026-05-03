@@ -10,7 +10,7 @@ Este projeto não é apenas um modelo de Machine Learning; é uma **estratégia 
 
 ## 🌐 Dashboard Interativo (Streamlit)
 
-Para converter dados complexos em decisões rápidas, foi desenvolvido um dashboard interativo utilizando **Streamlit**. Esta ferramenta serve como a interface final para a equipa de **Customer Success**, permitindo uma operação baseada em dados (data-driven).
+Para converter dados complexos em decisões rápidas, foi desenvolvido um dashboard interativo utilizando **Streamlit**. Esta ferramenta serve como a interface final para a equipe de **Customer Success**, permitindo uma operação baseada em dados (data-driven).
 
 ### ✨ Funcionalidades do Dashboard:
 * **Monitorização de Saúde:** Visualização em tempo real da distribuição do *Health Score*.
@@ -48,7 +48,6 @@ Limpamos a base removendo ruídos e tratando tipagens financeiras.
 ### 2. BI & Análise de Impacto
 Exploramos os dados para encontrar correlações de valor. 
 
-> **INSIRA AQUI O SEU PRIMEIRO GRÁFICO (Impacto do Suporte Técnico)**
 > ![Impacto do Suporte Técnico](../img/graficol1.png)
 
 ### 3. Engenharia do Health Score
