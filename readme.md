@@ -48,22 +48,30 @@ Limpamos a base removendo ruídos e tratando tipagens financeiras.
 ### 2. BI & Análise de Impacto
 Exploramos os dados para encontrar correlações de valor. 
 
-> ![Impacto do Suporte Técnico](../img/graficol1.png)
+<p align="center">
+  <img src="./img/graficol1.png" width="800px" alt="Impacto Financeiro">
+</p>
 
 ### 3. Engenharia do Health Score
 Criamos o "coração" do projeto: um indicador de 0 a 100 que mede a saúde do cliente através da fórmula:
 
 $$HealthScore = (Tenure \cdot 0.5) + (SupportUsage \cdot 0.3) - (MonthlyCharges \cdot 0.2)$$
 
-> **INSIRA AQUI O SEU SEGUNDO GRÁFICO (Distribuição do Health Score)**
-> ![Distribuição do Health Score](../img/graficol2.png)
+<p align="center">
+  <img src="./img/graficol2.png" width="800px" alt="Impacto Financeiro">
+</p>
 
-### 4. Inteligência Preditiva (Machine Learning)
-Treinamos um modelo de **Random Forest** focado em **Recall (70%)**.
-* **Por que Recall?** Para o negócio, é melhor alertar sobre um cliente que talvez não saia (Falso Positivo) do que perder um cliente sem aviso prévio (Falso Negativo).
+### 4. Impacto Financeiro & Business Case (ROI)
+Nesta etapa final, traduzimos a predição técnica em lucro real. Em vez de apenas identificar o risco, calculamos a viabilidade financeira da estratégia de retenção para o time de Sucesso do Cliente.
 
-> **INSIRA AQUI O SEU TERCEIRO GRÁFICO (Impacto Financeiro)**
-> ![Impacto Financeiro](../img/graficol3.png)
+**Análise de Eficiência Financeira:**
+* **Faturamento Protegido:** $36.904,80 por mês (estimativa realista de clientes salvos na lista prioritária).
+* **Investimento Operacional:** $6.465,00 (custo de ações de retenção, descontos e infraestrutura).
+* **Eficiência (ROI): 5.7x.** Para cada $1,00 investido em salvar esses clientes, a empresa retém $5,70 em faturamento.
+
+<p align="center">
+  <img src="./img/graficol3.png" width="800px" alt="Impacto Financeiro">
+</p>
 
 ---
 
