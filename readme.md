@@ -75,7 +75,7 @@ Para validar a precisão da nossa inteligência preditiva, utilizamos a **Matriz
   <img src="./img/graficol4.png" width="600px" alt="Matriz de Confusão">
 </p>
 
-> **Insight do Desenvolvedor:** A matriz prova que o modelo não está apenas "chutando", mas aprendendo padrões reais de comportamento. Ela serve como a base de confiança para o investimento financeiro detalhado na seção seguinte.
+> **Insight:** A matriz prova que o modelo não está apenas "chutando", mas aprendendo padrões reais de comportamento. Ela serve como a base de confiança para o investimento financeiro detalhado na seção seguinte.
 
 
 ### 5. Impacto Financeiro & Business Case (ROI)
