@@ -61,7 +61,24 @@ $$HealthScore = (Tenure \cdot 0.5) + (SupportUsage \cdot 0.3) - (MonthlyCharges 
   <img src="./img/graficol2.png" width="800px" alt="Impacto Financeiro">
 </p>
 
-### 4. Impacto Financeiro & Business Case (ROI)
+## 4. 📊 Avaliação de Performance: Matriz de Confusão
+
+Para validar a precisão da nossa inteligência preditiva, utilizamos a **Matriz de Confusão**. Esta ferramenta é essencial para entender como o modelo toma decisões e onde ele concentra seus acertos.
+
+### Análise Técnica dos Resultados:
+
+* **Recall de 70% (True Positives):** O modelo identificou com sucesso a grande maioria dos clientes que realmente iriam cancelar. Isso significa que, em 70% das vezes que um churn ia acontecer, o nosso sistema disparou um alerta.
+* **Gestão de Falsos Positivos:** O modelo apresenta alguns casos onde previu churn para clientes que acabaram ficando. Do ponto de vista de negócio, este é um **"erro aceitável"**, pois o custo de uma ação de retenção preventiva é muito menor do que o prejuízo de perder um cliente (LTV).
+* **Foco em Falsos Negativos:** Nossa prioridade foi reduzir ao máximo este quadrante, garantindo que o menor número possível de clientes "fuja" sem que o time de Sucesso do Cliente seja notificado.
+
+<p align="center">
+  <img src="./img/graficol4.png" width="600px" alt="Matriz de Confusão">
+</p>
+
+> **Insight do Desenvolvedor:** A matriz prova que o modelo não está apenas "chutando", mas aprendendo padrões reais de comportamento. Ela serve como a base de confiança para o investimento financeiro detalhado na seção seguinte.
+
+
+### 5. Impacto Financeiro & Business Case (ROI)
 Nesta etapa final, traduzimos a predição técnica em lucro real. Em vez de apenas identificar o risco, calculamos a viabilidade financeira da estratégia de retenção para o time de Sucesso do Cliente.
 
 **Análise de Eficiência Financeira:**
