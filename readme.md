@@ -77,7 +77,7 @@ Para validar a precisão da nossa inteligência preditiva, utilizamos a **Matriz
 > **Insight:** A matriz prova que o modelo não está apenas "chutando", mas aprendendo padrões reais de comportamento. Ela serve como a base de confiança para o investimento financeiro detalhado na seção seguinte.
 
 
-### 5. Impacto Financeiro & Business Case (ROI)
+### 5. Cenário estimado de ROI
 Nesta etapa final, traduzimos a predição técnica em lucro real. Em vez de apenas identificar o risco, calculamos a viabilidade financeira da estratégia de retenção para o time de Sucesso do Cliente.
 
 **Análise de Eficiência Financeira:**
