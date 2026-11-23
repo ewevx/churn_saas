@@ -18,7 +18,6 @@ Para converter dados complexos em decisões rápidas, foi desenvolvido um dashbo
 * **Recomendações Inteligentes:** Sugestão automática de ações de retenção (ex: novos treinos, descontos ou consultoria) baseada nos serviços ativos do cliente.
 * **Análise Financeira:** Cálculo automático do faturamento mensal em risco de acordo com os filtros aplicados.
 
-🚀 **Entra na aplicação aqui:** [Clique para abrir o Dashboard Streamlit](http://localhost:8501/)
 
 ---
 
